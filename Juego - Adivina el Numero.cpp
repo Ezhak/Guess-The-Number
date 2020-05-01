@@ -11,8 +11,8 @@ using namespace rlutil;
 using namespace std;
 
 int main() {
-	setColor(BLACK);
-	setBackgroundColor(DARKGREY);
+	setColor(LIGHTMAGENTA);
+	setBackgroundColor(BLUE);
 	cls();
 
 	int intentos = 0;
